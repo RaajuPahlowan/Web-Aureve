@@ -1,2 +1,2 @@
-# Web-Aureve
+
 Aureve is an e-commerce platform focused on skincare products, targeting end consumers, primarily women aged 20–45. The platform curates skincare brands such as The Ordinary, CeraVe, COSRX, and Axis-Y, and aims to provide a personalized shopping experience. Unlike generic e-commerce stores, Aureve will guide users through skincare choices based on skin concerns, ingredient preferences, and routine compatibility—offering a tailored, trustworthy solution in a saturated market.
